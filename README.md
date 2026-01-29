@@ -11,3 +11,5 @@ To support transparency and reproducibility, we provide:
 - A public demo illustrating the end-to-end workflow;
 - Detailed algorithm descriptions and hyperparameter settings in the paper;
 - Supplementary materials that document the core design choices.
+
+Due to intellectual property constraints, the full implementation of LogicTree-RAG cannot be released at this time. We plan to release additional components of the codebase when permitted.
