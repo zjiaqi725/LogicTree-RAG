@@ -13,3 +13,13 @@ To support transparency and reproducibility, we provide:
 - Supplementary materials that document the core design choices.
 
 Due to intellectual property constraints, the full implementation of LogicTree-RAG cannot be released at this time. We plan to release additional components of the codebase when permitted.
+
+## 📝 Citation
+
+```bibtex
+@article{zhu2026logictree,
+  title={LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting},
+  author={Zhu, Jiaqi and Xing, Naili and Pan, Hexiang and Gao, Haotian and Yin, Jianwei and Xiao, Xiaokui and Ooi, Beng Chin},
+  journal={arXiv preprint arXiv:2609.30943},
+  year={2026}
+}
